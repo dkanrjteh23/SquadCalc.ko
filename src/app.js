@@ -30,6 +30,7 @@ var options = {
         ["zh", "中文"],
         ["uk", "UKR"],
         ["ru", "РУС"],
+        ["kr", "KOR"],
         ["fr", "FR"]
     ],
     gravity: 9.78,
